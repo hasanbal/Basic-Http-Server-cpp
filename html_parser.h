@@ -5,7 +5,7 @@
 #include <iostream>
 #include <set>
 
-class html_parser{
+class html_parser {
 
 private:
     int request_type; // get => 0 , post => 1 , put=> 2
